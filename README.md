@@ -30,3 +30,4 @@ https://newsapi.org/register
 public static final String API_KEY = "your secret api key";
 ```
 # code
+# code
