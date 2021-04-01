@@ -29,5 +29,3 @@ https://newsapi.org/register
 ```java
 public static final String API_KEY = "your secret api key";
 ```
-# code
-# code
