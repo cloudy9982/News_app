@@ -1,30 +1,26 @@
-# PopularNews
+# News change
+Original type:https://github.com/haerulmuttaqin/PopularNews
+
 News application using the API from https://newsapi.org/
 
-API News Is JSON API for live news and blog articles from the media.
-This project uses retrofit2 as HTTP Clent - 
-Retrofit is a REST Client for Java and Android. Its use is very easy.
+Our team leveraged Saharsh Pandey's source code as the basis and made UI/UX related modification to improve the overall user satisfaction to the app, e.g.
 
-• News API
+Following is add：
 
-• Retrofit
+• Sidebar
 
-• Glide for the Image Network
+• Layout for more beautiful visual interface
 
-• Material design
+• New classification of content with additional columns of overseas news.
 
-• Prettytime for Convert Java Date() objects in just “a few minutes!”
+
 
 # Screenshot
-![Alt text](https://github.com/haerulmuttaqin/PopularNews/blob/master/Screenshot-NewsApp-Copy.png?raw=true "News API")
+![Alt text](https://i.imgur.com/M0BFuoL.png "News API(photo 1)")
+![Alt text](https://i.imgur.com/nVazuRG.png "News API(photo 2)")
+![Alt text](https://i.imgur.com/JPADnPl.png "News API(photo 3)")
 
-# Clone this project
-
-Clone with HTTPS
-https://github.com/haerulmuttaqin/PopularNews.git
-
-Clone with SSH
-git@github.com:haerulmuttaqin/PopularNews.git
+# Important
 
 Get your API key
 https://newsapi.org/register
@@ -32,5 +28,5 @@ https://newsapi.org/register
 >Replace your API key
 ```java
 public static final String API_KEY = "your secret api key";
-
 ```
+# code
