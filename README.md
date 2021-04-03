@@ -1,7 +1,7 @@
 # News change
-Original type:https://github.com/haerulmuttaqin/PopularNews
+Original version : https://github.com/haerulmuttaqin/PopularNews
 
-News application using the API from https://newsapi.org/
+News application using the API from : https://newsapi.org/
 
 Our team leveraged Saharsh Pandey's source code as the basis and made UI/UX related modification to improve the overall user satisfaction to the app, e.g.
 
@@ -12,8 +12,6 @@ Following is add：
 • Layout for more beautiful visual interface
 
 • New classification of content with additional columns of overseas news.
-
-
 
 # Screenshot
 ![Alt text](https://i.imgur.com/M0BFuoL.png "News API(photo 1)")
